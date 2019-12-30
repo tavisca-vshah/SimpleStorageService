@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.852
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleStorageServiceBootcamp", "SimpleStorageServiceBootcamp\SimpleStorageServiceBootcamp.csproj", "{260A0468-A574-4A72-BDCE-C8CEC8F85E73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilitySerialization", "UtilitySerialization\UtilitySerialization.csproj", "{C5852ED6-65B1-4BA6-B24B-4239F839C679}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{260A0468-A574-4A72-BDCE-C8CEC8F85E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{260A0468-A574-4A72-BDCE-C8CEC8F85E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{260A0468-A574-4A72-BDCE-C8CEC8F85E73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5852ED6-65B1-4BA6-B24B-4239F839C679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5852ED6-65B1-4BA6-B24B-4239F839C679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5852ED6-65B1-4BA6-B24B-4239F839C679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5852ED6-65B1-4BA6-B24B-4239F839C679}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
